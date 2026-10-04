@@ -64,8 +64,8 @@ div[data-testid="stMetric"] {
   min-height: 6.5rem;
   justify-content: center;
 }
-div[data-testid="stMetricLabel"],
-div[data-testid="stMetricLabel"] p {
+label[data-testid="stMetricLabel"],
+label[data-testid="stMetricLabel"] p {
   color: #42545D !important;
   font-size: 0.95rem !important;
   line-height: 1.3 !important;
