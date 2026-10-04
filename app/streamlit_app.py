@@ -56,7 +56,32 @@ h1, h2, h3 { font-family: "Source Serif 4", serif; color: #0B3D4A; letter-spacin
 }
 .source-card code { font-size: 0.78rem; }
 .stTabs [data-baseweb="tab-list"] { gap: 0.5rem; }
-.stMetric { background: #fff; border: 1px solid #D9D2C5; padding: 0.5rem 0.75rem; }
+div[data-testid="stMetric"] {
+  background: #fff;
+  border: 1px solid #D9D2C5;
+  border-radius: 6px;
+  padding: 0.85rem 1rem;
+  min-height: 6.5rem;
+  justify-content: center;
+}
+div[data-testid="stMetricLabel"],
+div[data-testid="stMetricLabel"] p {
+  color: #42545D !important;
+  font-size: 0.95rem !important;
+  line-height: 1.3 !important;
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+  opacity: 1 !important;
+}
+div[data-testid="stMetricValue"],
+div[data-testid="stMetricValue"] div {
+  color: #0B3D4A !important;
+  -webkit-text-fill-color: #0B3D4A !important;
+  font-size: clamp(1.65rem, 2.5vw, 2.25rem) !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  opacity: 1 !important;
+}
 div[data-testid="stCaptionContainer"] { color: #5C6B73; }
 </style>
 """
@@ -126,11 +151,12 @@ def main() -> None:
     )
 
     with tab_pop:
+        st.subheader("Population overview")
         c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Members", len(df360))
-        c2.metric("Very High ATRI", int((df360.atri_tier == "Very High").sum()))
-        c3.metric("30-day readmit", int(df360.readmit_30d_flag.astype(bool).sum()))
-        c4.metric("Open care gaps", len(data.care_gaps))
+        c1.metric("Members", f"{len(df360):,}")
+        c2.metric("Very High ATRI", f"{int((df360.atri_tier == 'Very High').sum()):,}")
+        c3.metric("30-day readmit", f"{int(df360.readmit_30d_flag.astype(bool).sum()):,}")
+        c4.metric("Open care gaps", f"{len(data.care_gaps):,}")
         st.caption("Source: GOLD.MEMBER_360 built from siloed EHR + claims. ATRI points in GOLD.ATRI_FACTORS.")
         left, right = st.columns((2, 1))
         with left:
