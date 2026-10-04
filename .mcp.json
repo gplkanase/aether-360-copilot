@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aether-care-ops": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["mcp/care_ops_server.py"]
+    }
+  }
+}

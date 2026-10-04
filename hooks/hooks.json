@@ -1,0 +1,14 @@
+{
+  "PreToolUse": [
+    {
+      "matcher": ".*sql.*",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "python hooks/block_unsafe_sql.py",
+          "timeout": 15
+        }
+      ]
+    }
+  ]
+}

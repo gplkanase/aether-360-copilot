@@ -1,0 +1,37 @@
+member_id,first_name,last_name,dob,sex,region,line_of_business,panel,pcp_name,plan_id
+MEM-10007,Jordan,Hale,1948-03-11,F,North Lake,Medicare Advantage,Heart Failure,Dr. Priya Raman,AETHER-MA-GOLD
+MEM-10014,River,Chen,1964-07-22,M,River District,Commercial,Diabetes,Dr. Luis Ortega,AETHER-COM-PLUS
+MEM-10021,Avery,Okonkwo,1972-01-19,F,Summit County,Commercial,General,Dr. Hannah Cho,AETHER-COM-PLUS
+MEM-10003,Samira,Patel,1956-09-03,F,North Lake,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-10031,Ellis,Navarro,1981-11-30,M,River District,Commercial,Diabetes,Dr. Luis Ortega,AETHER-COM-PLUS
+MEM-10018,Morgan,Blake,1992-04-17,F,Summit County,Commercial,General,Dr. Hannah Cho,AETHER-COM-PLUS
+MEM-20001,Nico,Hassan,1973-04-22,F,Summit County,Medicare Advantage,Diabetes,Dr. Luis Ortega,AETHER-MA-GOLD
+MEM-20002,Avery,Vogel,1977-02-23,M,North Lake,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20003,Nico,Khan,1975-11-05,F,River District,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20004,Indigo,Okonkwo,1951-12-07,M,North Lake,Dual,General,Dr. Luis Ortega,AETHER-MA-GOLD
+MEM-20005,Drew,Mwangi,1992-06-11,F,North Lake,Medicare Advantage,General,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20006,Cameron,Patel,1987-03-26,F,North Lake,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20007,Logan,Blake,1978-08-03,M,Summit County,Commercial,Heart Failure,Dr. Priya Raman,AETHER-COM-PLUS
+MEM-20008,Harper,Cohen,1942-09-16,M,North Lake,Dual,COPD,Dr. Luis Ortega,AETHER-MA-GOLD
+MEM-20009,Finley,Okonkwo,1983-11-01,M,North Lake,Commercial,Heart Failure,Dr. Hannah Cho,AETHER-COM-PLUS
+MEM-20010,Jordan,Cohen,1981-09-04,F,River District,Medicare Advantage,General,Dr. Priya Raman,AETHER-MA-GOLD
+MEM-20011,Jordan,Brooks,1950-04-05,M,Summit County,Dual,General,Dr. Hannah Cho,AETHER-MA-GOLD
+MEM-20012,Rowan,Kowalski,1966-07-01,F,River District,Commercial,General,Dr. Priya Raman,AETHER-COM-PLUS
+MEM-20013,Jules,Laurent,1952-10-25,F,Summit County,Medicare Advantage,Diabetes,Dr. Hannah Cho,AETHER-MA-GOLD
+MEM-20014,Blake,Laurent,1987-07-10,M,River District,Medicare Advantage,Heart Failure,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20015,Emery,Mwangi,1959-11-03,M,North Lake,Commercial,Heart Failure,Dr. Luis Ortega,AETHER-COM-PLUS
+MEM-20016,Quinn,Khan,1991-11-19,F,North Lake,Medicare Advantage,Heart Failure,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20017,Noor,Andersen,1951-03-12,M,North Lake,Commercial,Heart Failure,Dr. Amare Bekele,AETHER-COM-PLUS
+MEM-20018,Ellis,Singh,1974-01-02,M,North Lake,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20019,Quinn,Sato,1967-10-10,M,River District,Commercial,Heart Failure,Dr. Priya Raman,AETHER-COM-PLUS
+MEM-20020,Avery,Kowalski,1969-10-16,M,Summit County,Medicare Advantage,General,Dr. Luis Ortega,AETHER-MA-GOLD
+MEM-20021,Rowan,Walsh,1983-07-24,F,River District,Commercial,Heart Failure,Dr. Amare Bekele,AETHER-COM-PLUS
+MEM-20022,Ellis,Berg,1989-02-05,F,Summit County,Dual,General,Dr. Hannah Cho,AETHER-MA-GOLD
+MEM-20023,Drew,Navarro,1963-01-23,F,North Lake,Medicare Advantage,Diabetes,Dr. Hannah Cho,AETHER-MA-GOLD
+MEM-20024,Indigo,Berg,1976-04-01,M,Summit County,Commercial,COPD,Dr. Amare Bekele,AETHER-COM-PLUS
+MEM-20025,Marley,Nguyen,1981-07-01,M,North Lake,Commercial,COPD,Dr. Amare Bekele,AETHER-COM-PLUS
+MEM-20026,Nico,Singh,1950-10-13,F,River District,Medicare Advantage,Heart Failure,Dr. Amare Bekele,AETHER-MA-GOLD
+MEM-20027,Kendall,Sato,1964-10-07,F,Summit County,Commercial,Diabetes,Dr. Hannah Cho,AETHER-COM-PLUS
+MEM-20028,Uma,Patel,1945-10-20,M,River District,Commercial,Diabetes,Dr. Hannah Cho,AETHER-COM-PLUS
+MEM-20029,Kendall,Singh,1942-07-19,M,Summit County,Medicare Advantage,COPD,Dr. Hannah Cho,AETHER-MA-GOLD
+MEM-20030,Wren,Novak,1953-05-03,M,North Lake,Medicare Advantage,COPD,Dr. Amare Bekele,AETHER-MA-GOLD

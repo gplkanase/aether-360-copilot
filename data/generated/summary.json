@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-08-31",
+  "members": 36,
+  "conditions": 74,
+  "medications": 101,
+  "encounters": 49,
+  "labs": 25,
+  "claims": 41,
+  "documents": 16,
+  "synthetic": true,
+  "phi": false
+}

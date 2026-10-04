@@ -1,0 +1,75 @@
+condition_id,member_id,patient_id,icd10,description,status,onset_date,source_system
+DX-MEM-10007-I50.22,MEM-10007,PAT-10007,I50.22,Chronic systolic (congestive) heart failure,active,2020-01-15,EHR
+DX-MEM-10007-N18.3,MEM-10007,PAT-10007,N18.3,"Chronic kidney disease, stage 3",active,2020-01-15,EHR
+DX-MEM-10007-E11.9,MEM-10007,PAT-10007,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-10007-I48.91,MEM-10007,PAT-10007,I48.91,Unspecified atrial fibrillation,active,2020-01-15,EHR
+DX-MEM-10007-I10,MEM-10007,PAT-10007,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-10014-E11.9,MEM-10014,PAT-10014,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-10014-E66.9,MEM-10014,PAT-10014,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-10014-I10,MEM-10014,PAT-10014,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-10021-I25.10,MEM-10021,PAT-10021,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-10021-I10,MEM-10021,PAT-10021,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-10003-J44.1,MEM-10003,PAT-10003,J44.1,COPD with acute exacerbation,active,2020-01-15,EHR
+DX-MEM-10003-F32.1,MEM-10003,PAT-10003,F32.1,"Major depressive disorder, single episode, moderate",active,2020-01-15,EHR
+DX-MEM-10003-I10,MEM-10003,PAT-10003,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-10031-E66.9,MEM-10031,PAT-10031,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-10031-E11.9,MEM-10031,PAT-10031,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-10018-I10,MEM-10018,PAT-10018,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-20001-J44.9,MEM-20001,PAT-20001,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20001-E66.9,MEM-20001,PAT-20001,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20001-I25.10,MEM-20001,PAT-20001,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20002-F32.9,MEM-20002,PAT-20002,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20002-E66.9,MEM-20002,PAT-20002,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20002-M54.5,MEM-20002,PAT-20002,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20003-I10,MEM-20003,PAT-20003,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-20004-I10,MEM-20004,PAT-20004,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-20004-E66.9,MEM-20004,PAT-20004,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20004-J44.9,MEM-20004,PAT-20004,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20005-I10,MEM-20005,PAT-20005,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-20005-J44.9,MEM-20005,PAT-20005,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20005-I25.10,MEM-20005,PAT-20005,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20006-E66.9,MEM-20006,PAT-20006,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20006-F32.9,MEM-20006,PAT-20006,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20006-E11.9,MEM-20006,PAT-20006,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-20007-M54.5,MEM-20007,PAT-20007,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20008-M54.5,MEM-20008,PAT-20008,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20008-I10,MEM-20008,PAT-20008,I10,Essential hypertension,active,2020-01-15,EHR
+DX-MEM-20008-I25.10,MEM-20008,PAT-20008,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20009-J44.9,MEM-20009,PAT-20009,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20009-I25.10,MEM-20009,PAT-20009,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20009-M54.5,MEM-20009,PAT-20009,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20010-F32.9,MEM-20010,PAT-20010,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20011-E66.9,MEM-20011,PAT-20011,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20011-M54.5,MEM-20011,PAT-20011,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20011-J44.9,MEM-20011,PAT-20011,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20012-F32.9,MEM-20012,PAT-20012,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20012-E66.9,MEM-20012,PAT-20012,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20012-I25.10,MEM-20012,PAT-20012,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20013-E78.5,MEM-20013,PAT-20013,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20014-F32.9,MEM-20014,PAT-20014,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20014-E78.5,MEM-20014,PAT-20014,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20015-E78.5,MEM-20015,PAT-20015,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20015-F32.9,MEM-20015,PAT-20015,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20015-M54.5,MEM-20015,PAT-20015,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20016-E78.5,MEM-20016,PAT-20016,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20017-F32.9,MEM-20017,PAT-20017,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20018-J44.9,MEM-20018,PAT-20018,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20018-M54.5,MEM-20018,PAT-20018,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20018-E66.9,MEM-20018,PAT-20018,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20019-J44.9,MEM-20019,PAT-20019,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20020-I25.10,MEM-20020,PAT-20020,I25.10,CAD of native artery without angina,active,2020-01-15,EHR
+DX-MEM-20020-J44.9,MEM-20020,PAT-20020,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20020-E78.5,MEM-20020,PAT-20020,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20021-M54.5,MEM-20021,PAT-20021,M54.5,Low back pain,active,2020-01-15,EHR
+DX-MEM-20022-J44.9,MEM-20022,PAT-20022,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20023-E66.9,MEM-20023,PAT-20023,E66.9,"Obesity, unspecified",active,2020-01-15,EHR
+DX-MEM-20023-E78.5,MEM-20023,PAT-20023,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20024-E78.5,MEM-20024,PAT-20024,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20025-F32.9,MEM-20025,PAT-20025,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20026-E78.5,MEM-20026,PAT-20026,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20026-J44.9,MEM-20026,PAT-20026,J44.9,"COPD, unspecified",active,2020-01-15,EHR
+DX-MEM-20027-F32.9,MEM-20027,PAT-20027,F32.9,"Major depressive disorder, unspecified",active,2020-01-15,EHR
+DX-MEM-20028-E78.5,MEM-20028,PAT-20028,E78.5,"Hyperlipidemia, unspecified",active,2020-01-15,EHR
+DX-MEM-20028-E11.9,MEM-20028,PAT-20028,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-20029-E11.9,MEM-20029,PAT-20029,E11.9,Type 2 diabetes mellitus without complications,active,2020-01-15,EHR
+DX-MEM-20030-E66.9,MEM-20030,PAT-20030,E66.9,"Obesity, unspecified",active,2020-01-15,EHR

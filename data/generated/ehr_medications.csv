@@ -1,0 +1,102 @@
+rx_id,member_id,patient_id,drug_name,drug_class,sig,status,start_date,prescriber,source_system
+Rx-4412,MEM-10007,PAT-10007,warfarin,anticoagulant,5 mg PO daily,active,2024-11-02,Dr. Priya Raman,EHR
+Rx-4413,MEM-10007,PAT-10007,carvedilol,beta blocker,12.5 mg PO BID,active,2023-01-15,Dr. Priya Raman,EHR
+Rx-4414,MEM-10007,PAT-10007,furosemide,loop diuretic,40 mg PO BID,active,2023-01-15,Dr. Priya Raman,EHR
+Rx-4415,MEM-10007,PAT-10007,lisinopril,ACE inhibitor,20 mg PO daily,active,2022-06-01,Dr. Priya Raman,EHR
+Rx-4416,MEM-10007,PAT-10007,metformin,biguanide,500 mg PO BID,active,2021-04-10,Dr. Priya Raman,EHR
+Rx-4417,MEM-10007,PAT-10007,insulin glargine,basal insulin,18 units SQ nightly,active,2025-02-01,Dr. Priya Raman,EHR
+Rx-4418,MEM-10007,PAT-10007,spironolactone,MRA,25 mg PO daily,active,2023-01-15,Dr. Priya Raman,EHR
+Rx-4419,MEM-10007,PAT-10007,ibuprofen,NSAID,400 mg PO TID PRN dental pain,active,2026-07-18,Dr. Priya Raman,EHR
+Rx-5510,MEM-10014,PAT-10014,empagliflozin,SGLT2 inhibitor,10 mg PO daily,active,2025-09-12,Dr. Priya Raman,EHR
+Rx-5511,MEM-10014,PAT-10014,metformin,biguanide,1000 mg PO BID,active,2020-03-01,Dr. Priya Raman,EHR
+Rx-5512,MEM-10014,PAT-10014,lisinopril,ACE inhibitor,10 mg PO daily,active,2021-08-19,Dr. Priya Raman,EHR
+Rx-6610,MEM-10021,PAT-10021,aspirin,antiplatelet,81 mg PO daily,active,2019-11-11,Dr. Priya Raman,EHR
+Rx-6611,MEM-10021,PAT-10021,metoprolol succinate,beta blocker,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-3310,MEM-10003,PAT-10003,albuterol,SABA,2 puffs q4h PRN,active,2018-05-05,Dr. Priya Raman,EHR
+Rx-3311,MEM-10003,PAT-10003,fluticasone-salmeterol,ICS/LABA,250/50 1 puff BID,active,2022-09-09,Dr. Priya Raman,EHR
+Rx-3312,MEM-10003,PAT-10003,sertraline,SSRI,50 mg PO daily,active,2024-01-20,Dr. Priya Raman,EHR
+Rx-7710,MEM-10031,PAT-10031,metformin,biguanide,1000 mg PO BID,active,2023-06-06,Dr. Priya Raman,EHR
+Rx-2210,MEM-10018,PAT-10018,lisinopril,ACE inhibitor,10 mg PO daily,active,2025-01-08,Dr. Priya Raman,EHR
+Rx-9001,MEM-20001,PAT-20001,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9002,MEM-20001,PAT-20001,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9003,MEM-20002,PAT-20002,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9004,MEM-20002,PAT-20002,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9005,MEM-20002,PAT-20002,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9006,MEM-20002,PAT-20002,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9007,MEM-20003,PAT-20003,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9008,MEM-20004,PAT-20004,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9009,MEM-20005,PAT-20005,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9010,MEM-20006,PAT-20006,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9011,MEM-20006,PAT-20006,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9012,MEM-20006,PAT-20006,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9013,MEM-20006,PAT-20006,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9014,MEM-20007,PAT-20007,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9015,MEM-20008,PAT-20008,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9016,MEM-20008,PAT-20008,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9017,MEM-20008,PAT-20008,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9018,MEM-20008,PAT-20008,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9019,MEM-20009,PAT-20009,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9020,MEM-20009,PAT-20009,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9021,MEM-20009,PAT-20009,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9022,MEM-20009,PAT-20009,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9023,MEM-20010,PAT-20010,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9024,MEM-20010,PAT-20010,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9025,MEM-20010,PAT-20010,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9026,MEM-20011,PAT-20011,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9027,MEM-20011,PAT-20011,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9028,MEM-20011,PAT-20011,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9029,MEM-20012,PAT-20012,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9030,MEM-20012,PAT-20012,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9031,MEM-20012,PAT-20012,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9032,MEM-20012,PAT-20012,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9033,MEM-20013,PAT-20013,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9034,MEM-20013,PAT-20013,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9035,MEM-20013,PAT-20013,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9036,MEM-20014,PAT-20014,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9037,MEM-20014,PAT-20014,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9038,MEM-20014,PAT-20014,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9039,MEM-20014,PAT-20014,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9040,MEM-20015,PAT-20015,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9041,MEM-20015,PAT-20015,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9042,MEM-20015,PAT-20015,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9043,MEM-20015,PAT-20015,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9044,MEM-20016,PAT-20016,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9045,MEM-20016,PAT-20016,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9046,MEM-20016,PAT-20016,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9047,MEM-20016,PAT-20016,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9048,MEM-20017,PAT-20017,albuterol,SABA,2 puffs q4h PRN,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9049,MEM-20017,PAT-20017,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9050,MEM-20017,PAT-20017,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9051,MEM-20018,PAT-20018,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9052,MEM-20018,PAT-20018,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9053,MEM-20018,PAT-20018,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9054,MEM-20019,PAT-20019,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9055,MEM-20020,PAT-20020,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9056,MEM-20020,PAT-20020,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9057,MEM-20020,PAT-20020,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9058,MEM-20021,PAT-20021,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9059,MEM-20021,PAT-20021,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9060,MEM-20022,PAT-20022,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9061,MEM-20022,PAT-20022,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9062,MEM-20022,PAT-20022,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9063,MEM-20022,PAT-20022,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9064,MEM-20023,PAT-20023,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9065,MEM-20023,PAT-20023,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9066,MEM-20023,PAT-20023,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9067,MEM-20024,PAT-20024,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9068,MEM-20024,PAT-20024,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9069,MEM-20024,PAT-20024,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9070,MEM-20024,PAT-20024,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9071,MEM-20025,PAT-20025,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9072,MEM-20025,PAT-20025,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9073,MEM-20026,PAT-20026,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9074,MEM-20026,PAT-20026,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9075,MEM-20027,PAT-20027,omeprazole,PPI,20 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9076,MEM-20027,PAT-20027,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9077,MEM-20028,PAT-20028,atorvastatin,statin,40 mg PO nightly,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9078,MEM-20028,PAT-20028,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9079,MEM-20028,PAT-20028,lisinopril,ACE inhibitor,10 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9080,MEM-20028,PAT-20028,sertraline,SSRI,50 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9081,MEM-20029,PAT-20029,metformin,biguanide,1000 mg PO BID,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9082,MEM-20029,PAT-20029,amlodipine,CCB,5 mg PO daily,active,2024-02-02,Dr. Priya Raman,EHR
+Rx-9083,MEM-20030,PAT-20030,levothyroxine,thyroid,75 mcg PO daily,active,2024-02-02,Dr. Priya Raman,EHR

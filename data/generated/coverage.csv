@@ -1,0 +1,37 @@
+coverage_id,member_id,plan_id,line_of_business,product_name,effective_date,term_date,has_metabolic_rider
+COV-MEM-10007,MEM-10007,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-10014,MEM-10014,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-10021,MEM-10021,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-10003,MEM-10003,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-10031,MEM-10031,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,true
+COV-MEM-10018,MEM-10018,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20001,MEM-20001,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20002,MEM-20002,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20003,MEM-20003,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20004,MEM-20004,AETHER-MA-GOLD,Dual,Aether Gold MA,2026-01-01,,false
+COV-MEM-20005,MEM-20005,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20006,MEM-20006,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20007,MEM-20007,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20008,MEM-20008,AETHER-MA-GOLD,Dual,Aether Gold MA,2026-01-01,,false
+COV-MEM-20009,MEM-20009,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20010,MEM-20010,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20011,MEM-20011,AETHER-MA-GOLD,Dual,Aether Gold MA,2026-01-01,,false
+COV-MEM-20012,MEM-20012,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20013,MEM-20013,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20014,MEM-20014,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20015,MEM-20015,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20016,MEM-20016,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20017,MEM-20017,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20018,MEM-20018,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20019,MEM-20019,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20020,MEM-20020,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20021,MEM-20021,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20022,MEM-20022,AETHER-MA-GOLD,Dual,Aether Gold MA,2026-01-01,,false
+COV-MEM-20023,MEM-20023,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20024,MEM-20024,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20025,MEM-20025,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20026,MEM-20026,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20027,MEM-20027,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20028,MEM-20028,AETHER-COM-PLUS,Commercial,Aether Commercial Plus,2026-01-01,,false
+COV-MEM-20029,MEM-20029,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false
+COV-MEM-20030,MEM-20030,AETHER-MA-GOLD,Medicare Advantage,Aether Gold MA,2026-01-01,,false

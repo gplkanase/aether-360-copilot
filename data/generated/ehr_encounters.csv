@@ -1,0 +1,50 @@
+encounter_id,member_id,patient_id,encounter_class,start_date,end_date,reason,unplanned_readmit_30d,facility,source_system,allowed_hint
+ENC-7001,MEM-10007,PAT-10007,inpatient,2026-06-10,2026-06-14,CHF exacerbation,false,Aether North Lake Medical Center,EHR,48200
+ENC-7002,MEM-10007,PAT-10007,inpatient,2026-07-12,2026-07-16,"Volume overload, unplanned readmit",true,Aether North Lake Medical Center,EHR,39100
+ENC-7003,MEM-10007,PAT-10007,ambulatory,2026-07-20,2026-07-20,PCP post-discharge,false,Aether North Lake Medical Center,EHR,240
+ENC-7004,MEM-10007,PAT-10007,emergency,2026-05-02,2026-05-02,Dyspnea,false,Aether North Lake Medical Center,EHR,2100
+ENC-1401,MEM-10014,PAT-10014,emergency,2026-08-02,2026-08-02,"Nausea, possible ketosis",false,Aether North Lake Medical Center,EHR,1800
+ENC-1402,MEM-10014,PAT-10014,ambulatory,2026-08-05,2026-08-05,Diabetes follow-up,false,Aether North Lake Medical Center,EHR,220
+ENC-1403,MEM-10014,PAT-10014,ambulatory,2026-03-11,2026-03-11,PCP,false,Aether North Lake Medical Center,EHR,210
+ENC-2101,MEM-10021,PAT-10021,ambulatory,2026-06-18,2026-06-18,Cardiology CAD follow-up,false,Aether North Lake Medical Center,EHR,310
+ENC-0301,MEM-10003,PAT-10003,emergency,2026-06-21,2026-06-21,COPD flare,false,Aether North Lake Medical Center,EHR,2400
+ENC-0302,MEM-10003,PAT-10003,emergency,2026-07-08,2026-07-08,COPD flare,false,Aether North Lake Medical Center,EHR,2600
+ENC-0303,MEM-10003,PAT-10003,emergency,2026-08-04,2026-08-04,COPD flare,false,Aether North Lake Medical Center,EHR,2550
+ENC-0304,MEM-10003,PAT-10003,ambulatory,2026-04-02,2026-04-02,Pulmonary clinic,false,Aether North Lake Medical Center,EHR,280
+ENC-3101,MEM-10031,PAT-10031,ambulatory,2026-08-12,2026-08-12,Weight and glycemic visit,false,Aether North Lake Medical Center,EHR,230
+ENC-1801,MEM-10018,PAT-10018,ambulatory,2026-05-14,2026-05-14,Annual wellness,false,Aether North Lake Medical Center,EHR,190
+ENC-8001,MEM-20001,PAT-20001,ambulatory,2026-04-06,2026-04-06,PCP visit,false,Aether North Lake Medical Center,EHR,221
+ENC-8002,MEM-20002,PAT-20002,ambulatory,2026-07-05,2026-07-05,PCP visit,false,Aether North Lake Medical Center,EHR,168
+ENC-8003,MEM-20003,PAT-20003,ambulatory,2026-03-09,2026-03-09,PCP visit,false,Aether North Lake Medical Center,EHR,267
+ENC-8004,MEM-20003,PAT-20003,emergency,2026-06-19,2026-06-19,Acute visit,false,Aether North Lake Medical Center,EHR,2170
+ENC-8005,MEM-20004,PAT-20004,ambulatory,2026-01-01,2026-01-01,PCP visit,false,Aether North Lake Medical Center,EHR,234
+ENC-8006,MEM-20004,PAT-20004,emergency,2026-06-29,2026-06-29,Acute visit,false,Aether North Lake Medical Center,EHR,2565
+ENC-8007,MEM-20005,PAT-20005,ambulatory,2026-03-09,2026-03-09,PCP visit,false,Aether North Lake Medical Center,EHR,182
+ENC-8008,MEM-20006,PAT-20006,ambulatory,2025-10-23,2025-10-23,PCP visit,false,Aether North Lake Medical Center,EHR,254
+ENC-8009,MEM-20006,PAT-20006,emergency,2026-07-02,2026-07-02,Acute visit,false,Aether North Lake Medical Center,EHR,1560
+ENC-8010,MEM-20007,PAT-20007,ambulatory,2026-08-05,2026-08-05,PCP visit,false,Aether North Lake Medical Center,EHR,270
+ENC-8011,MEM-20008,PAT-20008,ambulatory,2026-05-17,2026-05-17,PCP visit,false,Aether North Lake Medical Center,EHR,244
+ENC-8012,MEM-20009,PAT-20009,ambulatory,2025-10-19,2025-10-19,PCP visit,false,Aether North Lake Medical Center,EHR,200
+ENC-8013,MEM-20010,PAT-20010,ambulatory,2026-07-19,2026-07-19,PCP visit,false,Aether North Lake Medical Center,EHR,231
+ENC-8014,MEM-20011,PAT-20011,ambulatory,2025-10-22,2025-10-22,PCP visit,false,Aether North Lake Medical Center,EHR,160
+ENC-8015,MEM-20011,PAT-20011,emergency,2026-08-13,2026-08-13,Acute visit,false,Aether North Lake Medical Center,EHR,1161
+ENC-8016,MEM-20012,PAT-20012,ambulatory,2026-05-25,2026-05-25,PCP visit,false,Aether North Lake Medical Center,EHR,248
+ENC-8017,MEM-20013,PAT-20013,ambulatory,2025-10-07,2025-10-07,PCP visit,false,Aether North Lake Medical Center,EHR,175
+ENC-8018,MEM-20014,PAT-20014,ambulatory,2026-03-12,2026-03-12,PCP visit,false,Aether North Lake Medical Center,EHR,240
+ENC-8019,MEM-20014,PAT-20014,emergency,2026-07-15,2026-07-15,Acute visit,false,Aether North Lake Medical Center,EHR,2814
+ENC-8020,MEM-20015,PAT-20015,ambulatory,2025-08-28,2025-08-28,PCP visit,false,Aether North Lake Medical Center,EHR,266
+ENC-8021,MEM-20016,PAT-20016,ambulatory,2025-10-03,2025-10-03,PCP visit,false,Aether North Lake Medical Center,EHR,214
+ENC-8022,MEM-20017,PAT-20017,ambulatory,2026-04-27,2026-04-27,PCP visit,false,Aether North Lake Medical Center,EHR,194
+ENC-8023,MEM-20018,PAT-20018,ambulatory,2026-04-02,2026-04-02,PCP visit,false,Aether North Lake Medical Center,EHR,270
+ENC-8024,MEM-20019,PAT-20019,ambulatory,2025-12-16,2025-12-16,PCP visit,false,Aether North Lake Medical Center,EHR,205
+ENC-8025,MEM-20020,PAT-20020,ambulatory,2025-12-26,2025-12-26,PCP visit,false,Aether North Lake Medical Center,EHR,230
+ENC-8026,MEM-20021,PAT-20021,ambulatory,2026-06-09,2026-06-09,PCP visit,false,Aether North Lake Medical Center,EHR,162
+ENC-8027,MEM-20022,PAT-20022,ambulatory,2026-06-22,2026-06-22,PCP visit,false,Aether North Lake Medical Center,EHR,276
+ENC-8028,MEM-20023,PAT-20023,ambulatory,2025-09-19,2025-09-19,PCP visit,false,Aether North Lake Medical Center,EHR,197
+ENC-8029,MEM-20024,PAT-20024,ambulatory,2025-08-26,2025-08-26,PCP visit,false,Aether North Lake Medical Center,EHR,251
+ENC-8030,MEM-20025,PAT-20025,ambulatory,2026-03-06,2026-03-06,PCP visit,false,Aether North Lake Medical Center,EHR,207
+ENC-8031,MEM-20026,PAT-20026,ambulatory,2025-10-09,2025-10-09,PCP visit,false,Aether North Lake Medical Center,EHR,219
+ENC-8032,MEM-20027,PAT-20027,ambulatory,2026-07-23,2026-07-23,PCP visit,false,Aether North Lake Medical Center,EHR,196
+ENC-8033,MEM-20028,PAT-20028,ambulatory,2025-10-18,2025-10-18,PCP visit,false,Aether North Lake Medical Center,EHR,176
+ENC-8034,MEM-20029,PAT-20029,ambulatory,2026-02-19,2026-02-19,PCP visit,false,Aether North Lake Medical Center,EHR,229
+ENC-8035,MEM-20030,PAT-20030,ambulatory,2026-02-07,2026-02-07,PCP visit,false,Aether North Lake Medical Center,EHR,189

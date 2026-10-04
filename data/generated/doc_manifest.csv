@@ -1,0 +1,17 @@
+doc_id,document_class,title,filename,member_id,service_date,note_type
+DOC-FDA-WARFARIN,fda_label,SYNTHETIC LABEL: Warfarin Sodium Tablets (Aether-labeled stand-in),DOC-FDA-WARFARIN.md,,2026-01-15,
+DOC-FDA-METFORAX,fda_label,SYNTHETIC LABEL: Metforax (metformin hydrochloride) tablets,DOC-FDA-METFORAX.md,,2026-01-15,
+DOC-FDA-CANAGLO,fda_label,SYNTHETIC LABEL: Canaglo (canagliflozin) tablets,DOC-FDA-CANAGLO.md,,2026-01-15,
+DOC-SAFETY-SGLT2-DKA,safety_alert,Aether Safety Communication: SGLT2 inhibitors and euglycemic DKA,DOC-SAFETY-SGLT2-DKA.md,,2026-01-15,
+DOC-CMS-NCD-CGM,cms_ncd,SYNTHETIC CMS-style NCD: Continuous Glucose Monitors,DOC-CMS-NCD-CGM.md,,2026-01-15,
+DOC-PA-GLP1,pa_policy,Aether Care 2026 Prior Authorization: GLP-1 receptor agonists,DOC-PA-GLP1.md,,2026-01-15,
+DOC-FORMULARY-2026,formulary,Aether Care Alliance Formulary Excerpt 2026,DOC-FORMULARY-2026.md,,2026-01-15,
+DOC-HEDIS-GSD,quality_spec,Synthetic HEDIS GSD (Glycemic Status Assessment) spec excerpt,DOC-HEDIS-GSD.md,,2026-01-15,
+DOC-NOTE-7002,clinical_note,discharge_summary MEM-10007,DOC-NOTE-HALE-READMIT.md,MEM-10007,2026-07-16,discharge_summary
+DOC-NOTE-7003,clinical_note,progress_note MEM-10007,DOC-NOTE-HALE-PCP.md,MEM-10007,2026-07-20,progress_note
+DOC-NOTE-4412,clinical_note,pharmacy_consult MEM-10007,DOC-NOTE-HALE-PHARM.md,MEM-10007,2026-07-21,pharmacy_consult
+DOC-NOTE-1401,clinical_note,ed_note MEM-10014,DOC-NOTE-CHEN-ED.md,MEM-10014,2026-08-02,ed_note
+DOC-NOTE-2101,clinical_note,progress_note MEM-10021,DOC-NOTE-OKONKWO-CARD.md,MEM-10021,2026-06-18,progress_note
+DOC-NOTE-0303,clinical_note,ed_note MEM-10003,DOC-NOTE-PATEL-ED.md,MEM-10003,2026-08-04,ed_note
+DOC-NOTE-3101,clinical_note,progress_note MEM-10031,DOC-NOTE-NAVARRO-GLP1.md,MEM-10031,2026-08-12,progress_note
+DOC-NOTE-1801,clinical_note,progress_note MEM-10018,DOC-NOTE-BLAKE-AWV.md,MEM-10018,2026-05-14,progress_note
